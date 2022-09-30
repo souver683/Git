@@ -14,6 +14,7 @@ public class light {
         System.out.println("hello git3 hot-fix");
         System.out.println("hello git3 master 2");
         System.out.println("hello git3 hot-fix2 test");
+        System.out.println("hello git3 hot-fix2 test ssh");
 
 
 
